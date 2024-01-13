@@ -25,3 +25,20 @@ Dan Link: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
 
 •	Mengatasi masalah bagi para pengguna agar rekomendasi lagu sesuai dengan yang di inginkan, dalam memberikan rekomendasi yang lebih relevan dan memuaskan
 
+## **Model dan alur tahapan eksperimen**
+
+pembuatan sistem rekomendasi lagu-lagu dan lagu populer menggunakan dua metode utama, yaitu Bag-of-Words (BoW) untuk menganalisis karakteristik lagu dan Simple Rule-Based Recommenders untuk menerapkan aturan sederhana dalam memberikan rekomendasi. Metode BoW digunakan untuk mengekstrak fitur-fitur lagu, seperti genre, artis, dan elemen musik, sedangkan Simple Rule-Based Recommenders mengambil pendekatan berbasis aturan untuk memberikan rekomendasi berdasarkan kriteria tertentu.
+
+### Tahapan
+
+1.	Mencari dataset
+   
+2.	Pre-Processing
+   
+3.	Scaling Numerical feature
+   
+4.	Similarity calculation
+   
+5.	Input dan output
+    
+6.	Most popular songs
