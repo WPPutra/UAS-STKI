@@ -42,3 +42,13 @@ pembuatan sistem rekomendasi lagu-lagu dan lagu populer menggunakan dua metode u
 5.	Input dan output
     
 6.	Most popular songs
+
+## **Performa model/ uji coba model**
+
+Di sini menghasilkan nilai Similarity Score yang beragam untuk score yang terbaik dapat menyentuh angka 1.00 dan ada juga yang memiliki score 0.99. Sedangkan Uji Performa dengan menggunakan Random Forest Model Menghasilkan
+
+Accuracy:  0.8450877192982457
+
+Precision:  0.9551753503135403
+
+Recall:  0.856329816768462
